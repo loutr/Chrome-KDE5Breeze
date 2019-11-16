@@ -1,0 +1,31 @@
+{
+   "manifest_version": 2,
+
+   "name": "KDE5 Breeze",
+   "description": "A theme for Chrome on KDE5 when using Breeze window decorations.",
+
+   "version": "1.0.0",
+
+   "icons": {
+      "128": "images/icon128.png"
+   },
+
+   "theme": {
+      "colors": {
+         "frame": [71, 80, 87],
+         "frame_inactive": [239, 240, 241],
+         "frame_incognito": [71, 80, 87],
+         "frame_incognito_inactive": [239, 240, 241],
+         
+         "background_tab": [71, 80, 87],
+         "background_tab_inactive": [239, 240, 241],
+         "background_tab_incognito": [71, 80, 87],
+         "background_tab_incognito_inactive": [239, 240, 241],
+        
+         "tab_background_text": [189, 195, 199 ],
+         "tab_background_text_inactive": [127, 140, 141 ],
+         "tab_background_text_incognito": [189, 195, 199 ],
+         "tab_background_text_incognito_inactive": [127, 140, 141 ]
+      }
+   }
+}
