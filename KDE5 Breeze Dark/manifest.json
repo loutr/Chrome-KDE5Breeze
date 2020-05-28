@@ -1,0 +1,38 @@
+{
+   "manifest_version": 2,
+
+   "name": "KDE5 Breeze Dark",
+   "description": "A theme for Chrom·e·ium on KDE5 when using Breeze Dark window decorations.",
+
+   "version": "1.0",
+
+   "icons": {
+      "128": "images/icon128.png"
+   },
+
+   "theme": {
+      "colors": {
+         "frame": [49, 54, 59],
+         "frame_inactive": [49, 54, 59],
+         "frame_incognito": [49, 54, 59],
+         "frame_incognito_inactive": [49, 54, 59],
+
+         "background_tab": [49, 54, 59],
+         "background_tab_inactive": [49, 54, 59],
+         "background_tab_incognito": [49, 54, 59],
+         "background_tab_incognito_inactive": [49, 54, 59],
+
+         "tab_background_text": [189, 195, 199],
+         "tab_background_text_inactive": [127, 140, 141],
+         "tab_background_text_incognito": [189, 195, 199],
+         "tab_background_text_incognito_inactive": [127, 140, 141],
+
+         "ntp_background" : [89, 89, 97],
+         "toolbar": [89, 89, 97],
+         "bookmark_text": [255, 255, 255]
+      },
+      "tints": {
+         "buttons": [1, 1, 1]
+      }
+   }
+}
